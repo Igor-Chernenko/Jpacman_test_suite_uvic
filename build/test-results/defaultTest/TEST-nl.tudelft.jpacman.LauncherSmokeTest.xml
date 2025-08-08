@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T02:55:46" hostname="IGORS_PC" time="3.006">
+<testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:05" hostname="IGORS_PC" time="2.501">
   <properties/>
-  <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="3.006"/>
+  <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="2.501"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
