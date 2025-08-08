@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.npc.ghost.ClydeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.531">
+<testsuite name="nl.tudelft.jpacman.npc.ghost.ClydeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:47" hostname="PUTER" time="0.535">
   <properties/>
-  <testcase name="nineFromPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.488"/>
+  <testcase name="nineFromPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.495"/>
   <testcase name="noPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.019"/>
-  <testcase name="nextToPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.022"/>
+  <testcase name="nextToPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.ClydeTest" time="0.019"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

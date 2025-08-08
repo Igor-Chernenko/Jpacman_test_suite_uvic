@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.SquareTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.027">
+<testsuite name="nl.tudelft.jpacman.board.SquareTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:47" hostname="PUTER" time="0.027">
   <properties/>
-  <testcase name="invariantTrueWhenOccupantReferencesThisSquare()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.003"/>
-  <testcase name="invariantFalseWhenOccupantReferencesDifferentSquare()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.003"/>
-  <testcase name="occupantsListIsImmutableAndOrdered()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.009"/>
+  <testcase name="invariantTrueWhenOccupantReferencesThisSquare()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.004"/>
+  <testcase name="invariantFalseWhenOccupantReferencesDifferentSquare()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.004"/>
+  <testcase name="occupantsListIsImmutableAndOrdered()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.008"/>
   <testcase name="linkIsOneWayAndGetSquareAtWorks()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.003"/>
   <testcase name="removeActuallyRemovesOccupant()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>

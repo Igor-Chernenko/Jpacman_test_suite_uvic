@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.268">
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:46" hostname="PUTER" time="0.303">
   <properties/>
-  <testcase name="testBoard()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.268"/>
+  <testcase name="testBoard()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.303"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

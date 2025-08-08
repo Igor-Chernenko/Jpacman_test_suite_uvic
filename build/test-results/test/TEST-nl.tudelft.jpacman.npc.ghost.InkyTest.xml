@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.npc.ghost.InkyTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:48" hostname="PUTER" time="0.172">
+<testsuite name="nl.tudelft.jpacman.npc.ghost.InkyTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:48" hostname="PUTER" time="0.172">
   <properties/>
-  <testcase name="onlyInkyTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.019"/>
-  <testcase name="destinationWrapAroundTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.024"/>
+  <testcase name="onlyInkyTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.018"/>
+  <testcase name="destinationWrapAroundTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.025"/>
   <testcase name="noPlayerTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.021"/>
-  <testcase name="onDestinationPlayerBlinkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.023"/>
-  <testcase name="playerBlinkyInkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.021"/>
-  <testcase name="destinationUnreachableTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.022"/>
-  <testcase name="blinkyPlayerInkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.02"/>
+  <testcase name="onDestinationPlayerBlinkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.024"/>
+  <testcase name="playerBlinkyInkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.024"/>
+  <testcase name="destinationUnreachableTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.021"/>
+  <testcase name="blinkyPlayerInkyAdjacentTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.019"/>
   <testcase name="noBlinkyTest()" classname="nl.tudelft.jpacman.npc.ghost.InkyTest" time="0.014"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

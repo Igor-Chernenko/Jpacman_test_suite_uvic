@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.OccupantTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.069">
+<testsuite name="nl.tudelft.jpacman.board.OccupantTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:47" hostname="PUTER" time="0.076">
   <properties/>
-  <testcase name="noStartSquare()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.063"/>
-  <testcase name="testReoccupy()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.002"/>
+  <testcase name="noStartSquare()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.069"/>
+  <testcase name="testReoccupy()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.003"/>
   <testcase name="testOccupy()" classname="nl.tudelft.jpacman.board.OccupantTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

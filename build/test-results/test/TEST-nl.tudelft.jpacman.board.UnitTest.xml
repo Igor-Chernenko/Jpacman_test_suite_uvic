@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.UnitTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.027">
+<testsuite name="nl.tudelft.jpacman.board.UnitTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:21:47" hostname="PUTER" time="0.031">
   <properties/>
-  <testcase name="occupyAgainMovesAndCleansUpPreviousSquare()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
-  <testcase name="defaultsToFacingEast()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.006"/>
+  <testcase name="occupyAgainMovesAndCleansUpPreviousSquare()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.003"/>
+  <testcase name="defaultsToFacingEast()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.005"/>
   <testcase name="leaveSquareWhenOnSquareRemovesAndNullsOut()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
-  <testcase name="occupyFirstTimeAddsToOccupants()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
+  <testcase name="occupyFirstTimeAddsToOccupants()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.002"/>
   <testcase name="squaresAheadOfZeroReturnsCurrentSquare()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
-  <testcase name="squaresAheadOfFollowsDirectionOverMultipleSteps()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
-  <testcase name="hasSquareTogglesWithOccupyAndLeave()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
+  <testcase name="squaresAheadOfFollowsDirectionOverMultipleSteps()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.002"/>
+  <testcase name="hasSquareTogglesWithOccupyAndLeave()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.003"/>
   <testcase name="setAndGetDirection()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
   <testcase name="leaveSquareWhenAlreadyOffBoardIsNoOp()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
   <testcase name="invariantFalseWhenUnitNotListedOnItsSquare()" classname="nl.tudelft.jpacman.board.UnitTest" time="0.001"/>
