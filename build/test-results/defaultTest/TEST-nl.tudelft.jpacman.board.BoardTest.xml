@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T02:45:30" hostname="IGORS_PC" time="0.07">
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T02:47:32" hostname="IGORS_PC" time="0.075">
   <properties/>
-  <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.0"/>
   <testcase name="verifyHeight()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
-  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.018"/>
+  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.02"/>
   <testcase name="[2] 1, 2" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
-  <testcase name="[3] 0, 1" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <testcase name="[3] 0, 1" classname="nl.tudelft.jpacman.board.BoardTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

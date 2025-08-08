@@ -40,6 +40,21 @@ public class WithinbordersTest {
     void validCoordinatesTest(int xCoordinates, int yCoordinates) {
         assertThat(board.withinBorders(xCoordinates, yCoordinates)).isTrue();
     }
+    /**
+     * Checks that coordinates that fall outside the 4x4 matrix return false.
+     * @param xCoordinates The x coordinate.
+     * @param yCoordinates The y coordinate.
+     */
+    @ParameterizedTest
+    @CsvSource({
+            "-1, 2",
+            "4, 2",
+            "2, -1",
+            "2, 4"
+    })
+    void invalidCoordinatesTest(int xCoordinates, int yCoordinates) {
+        assertThat(board.withinBorders(xCoordinates, yCoordinates)).isFalse();
+    }
 
     private static Square[][] generateBoardArray(int xSize, int ySize) {
 
@@ -53,4 +68,5 @@ public class WithinbordersTest {
 
         return array;
     }
+
 }
