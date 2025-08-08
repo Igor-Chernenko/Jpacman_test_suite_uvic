@@ -9,9 +9,6 @@ public class BoardTest {
 
     private Square square;
 
-    /**
-     * creates a new BasicSquare for each test method .
-     */
     @BeforeEach
     public void setup() {
         square = new BasicSquare();

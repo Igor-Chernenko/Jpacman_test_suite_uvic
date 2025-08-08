@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
  *
  * @author Arie van Deursen
  */
+
 public class DirectionTest {
     /**
      * check correct delta when moving north?

@@ -8,9 +8,10 @@ import org.junit.jupiter.api.Test;
 /**
  * Test suite to confirm that {@link Unit}s correctly (de)occupy squares.
  *
- * @author Jeroen Roosen 
+ * @author Jeroen Roosen
  *
  */
+
 class OccupantTest {
 
     /**
@@ -18,16 +19,13 @@ class OccupantTest {
      */
     private Unit unit;
 
-    /**
-     * Resets the unit under test.
-     */
     @BeforeEach
     void setUp() {
         unit = new BasicUnit();
     }
 
     /**
-     * Asserts that a unit has no square to start with.
+     * asserts that a unit has no square to start with.
      */
     @Test
     void noStartSquare() {
@@ -38,8 +36,8 @@ class OccupantTest {
     }
 
     /**
-     * Tests that the unit indeed has the target square as its base after
-     * occupation.
+     * tes the target square as its base after occupation
+     *
      */
     @Test
     void testOccupy() {
@@ -52,7 +50,7 @@ class OccupantTest {
     }
 
     /**
-     * Test that the unit indeed has the target square as its base after
+     * test that the unit  has the target square as its base after
      * double occupation.
      */
     @Test
