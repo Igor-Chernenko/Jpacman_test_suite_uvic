@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.BoardFactoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:07:06" hostname="PUTER" time="1.924">
+  <properties/>
+  <testcase name="createGroundUsesSpriteAndIsAccessible()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="1.89"/>
+  <testcase name="createBoardKeepsSquaresAndLinksWithWrapAround()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.026"/>
+  <testcase name="createWallUsesSpriteAndIsNotAccessible()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

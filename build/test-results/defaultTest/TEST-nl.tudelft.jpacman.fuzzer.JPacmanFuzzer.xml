@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" tests="1" skipped="1" failures="0" errors="0" timestamp="2025-08-08T02:55:50" hostname="IGORS_PC" time="0.0">
+<testsuite name="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" tests="1" skipped="1" failures="0" errors="0" timestamp="2025-08-08T05:06:49" hostname="PUTER" time="0.001">
   <properties/>
-  <testcase name="fuzzerTest(RepetitionInfo)" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.0">
+  <testcase name="fuzzerTest(RepetitionInfo)" classname="nl.tudelft.jpacman.fuzzer.JPacmanFuzzer" time="0.001">
     <skipped/>
   </testcase>
   <system-out><![CDATA[]]></system-out>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T02:55:50" hostname="IGORS_PC" time="0.077">
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:49" hostname="PUTER" time="0.116">
   <properties/>
   <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
   <testcase name="verifyHeight()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
-  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.02"/>
+  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.028"/>
   <testcase name="[2] 1, 2" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
   <testcase name="[3] 0, 1" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
