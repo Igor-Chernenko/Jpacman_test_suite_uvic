@@ -36,7 +36,7 @@ jpacman,nl.tudelft.jpacman.level,Pellet,0,15,0,0,0,6,0,3,0,3
 jpacman,nl.tudelft.jpacman.level,DefaultPlayerInteractionMap,54,0,0,0,17,0,5,0,5,0
 jpacman,nl.tudelft.jpacman.level,Level.NpcMoveTask,0,36,0,2,0,10,0,3,0,2
 jpacman,nl.tudelft.jpacman.level,PlayerCollisions,22,66,6,8,6,22,5,9,1,6
-jpacman,nl.tudelft.jpacman.level,Player,13,57,3,3,4,20,4,7,1,7
+jpacman,nl.tudelft.jpacman.level,Player,10,60,2,4,3,21,3,8,1,7
 jpacman,nl.tudelft.jpacman.level,LevelFactory.RandomGhost,8,0,0,0,3,0,2,0,2,0
 jpacman,nl.tudelft.jpacman.npc.ghost,Inky,12,84,6,10,2,21,6,6,0,4
 jpacman,nl.tudelft.jpacman.npc.ghost,Pinky,12,43,5,5,2,11,5,3,0,3
