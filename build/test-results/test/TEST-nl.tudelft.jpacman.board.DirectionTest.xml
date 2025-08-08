@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="nl.tudelft.jpacman.board.DirectionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:12:38" hostname="PUTER" time="0.017">
+<testsuite name="nl.tudelft.jpacman.board.DirectionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:20:47" hostname="PUTER" time="0.019">
   <properties/>
-  <testcase name="testNorth()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.011"/>
+  <testcase name="testNorth()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.012"/>
   <testcase name="testSouth()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.001"/>
   <testcase name="testEast()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.001"/>
   <testcase name="testWest()" classname="nl.tudelft.jpacman.board.DirectionTest" time="0.001"/>

@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<testsuite name="nl.tudelft.jpacman.sprite.SpriteTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:40" hostname="PUTER" time="0.063">
-=======
-<<<<<<< HEAD
-<testsuite name="nl.tudelft.jpacman.sprite.SpriteTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:09" hostname="IGORS_PC" time="0.031">
+<testsuite name="nl.tudelft.jpacman.sprite.SpriteTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:19:19" hostname="PUTER" time="0.068">
   <properties/>
-  <testcase name="splitOutOfBounds()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="spriteHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="animationWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="splitWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="spriteWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="splitHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.003"/>
-  <testcase name="resourceMissing()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.005"/>
-  <testcase name="animationHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.004"/>
-=======
-<testsuite name="nl.tudelft.jpacman.sprite.SpriteTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:50" hostname="PUTER" time="0.054">
->>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
-  <properties/>
-  <testcase name="splitOutOfBounds()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.007"/>
-  <testcase name="spriteHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.005"/>
+  <testcase name="splitOutOfBounds()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.009"/>
+  <testcase name="spriteHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.009"/>
   <testcase name="animationWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.007"/>
   <testcase name="splitWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.006"/>
   <testcase name="spriteWidth()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.006"/>
-<<<<<<< HEAD
   <testcase name="splitHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.006"/>
-  <testcase name="resourceMissing()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.012"/>
-  <testcase name="animationHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.006"/>
-=======
-  <testcase name="splitHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.005"/>
-  <testcase name="resourceMissing()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.008"/>
+  <testcase name="resourceMissing()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.009"/>
   <testcase name="animationHeight()" classname="nl.tudelft.jpacman.sprite.SpriteTest" time="0.005"/>
->>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
->>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -60,7 +60,7 @@ import nl.tudelft.jpacman.sprite.Sprite;
      * @return True iff the unit is occupying a square at the moment.
      */
     public boolean hasSquare() {
-<span class="pc bpc" id="L63" title="1 of 2 branches missed.">        return square != null;</span>
+<span class="fc bfc" id="L63" title="All 2 branches covered.">        return square != null;</span>
     }
 
     /**
@@ -85,7 +85,7 @@ import nl.tudelft.jpacman.sprite.Sprite;
      * Leaves the currently occupying square, thus removing this unit from the board.
      */
     public void leaveSquare() {
-<span class="pc bpc" id="L88" title="1 of 2 branches missed.">        if (square != null) {</span>
+<span class="fc bfc" id="L88" title="All 2 branches covered.">        if (square != null) {</span>
 <span class="fc" id="L89">            square.remove(this);</span>
 <span class="fc" id="L90">            square = null;</span>
         }
@@ -101,7 +101,7 @@ import nl.tudelft.jpacman.sprite.Sprite;
      *         not occupying any square.
      */
     protected boolean invariant() {
-<span class="pc bpc" id="L104" title="1 of 4 branches missed.">        return square == null || square.getOccupants().contains(this);</span>
+<span class="fc bfc" id="L104" title="All 4 branches covered.">        return square == null || square.getOccupants().contains(this);</span>
     }
 
     /**

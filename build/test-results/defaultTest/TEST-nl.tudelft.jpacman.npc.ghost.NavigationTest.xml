@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<testsuite name="nl.tudelft.jpacman.npc.ghost.NavigationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:40" hostname="PUTER" time="0.125">
-=======
-<<<<<<< HEAD
-<testsuite name="nl.tudelft.jpacman.npc.ghost.NavigationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:09" hostname="IGORS_PC" time="0.065">
+<testsuite name="nl.tudelft.jpacman.npc.ghost.NavigationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:19:19" hostname="PUTER" time="0.455">
   <properties/>
-  <testcase name="testSimplePath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.013"/>
-  <testcase name="testNoTraveller()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.005"/>
-  <testcase name="testNoShortestPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.005"/>
-  <testcase name="testFullSizedLevel()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.019"/>
-  <testcase name="testShortestPathEmpty()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.005"/>
-  <testcase name="testNoNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.002"/>
-  <testcase name="testCornerPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.004"/>
-  <testcase name="testNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.007"/>
-=======
-<testsuite name="nl.tudelft.jpacman.npc.ghost.NavigationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:50" hostname="PUTER" time="0.105">
->>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
-  <properties/>
-  <testcase name="testSimplePath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.026"/>
-  <testcase name="testNoTraveller()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.012"/>
-  <testcase name="testNoShortestPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.01"/>
-  <testcase name="testFullSizedLevel()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.032"/>
-  <testcase name="testShortestPathEmpty()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.007"/>
-  <testcase name="testNoNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.006"/>
-<<<<<<< HEAD
-  <testcase name="testCornerPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.009"/>
-  <testcase name="testNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.012"/>
-=======
-  <testcase name="testCornerPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.008"/>
-  <testcase name="testNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.011"/>
->>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
->>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
+  <testcase name="testSimplePath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.093"/>
+  <testcase name="testNoTraveller()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.007"/>
+  <testcase name="testNoShortestPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.006"/>
+  <testcase name="testFullSizedLevel()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.293"/>
+  <testcase name="testShortestPathEmpty()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.009"/>
+  <testcase name="testNoNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.01"/>
+  <testcase name="testCornerPath()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.014"/>
+  <testcase name="testNearestUnit()" classname="nl.tudelft.jpacman.npc.ghost.NavigationTest" time="0.015"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
