@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="nl.tudelft.jpacman.board.BoardFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:38" hostname="PUTER" time="0.972">
+=======
+<<<<<<< HEAD
+<testsuite name="nl.tudelft.jpacman.board.BoardFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:08" hostname="IGORS_PC" time="0.559">
+  <properties/>
+  <testcase name="connectedEast()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.542"/>
+  <testcase name="connectedWest()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
+  <testcase name="worldIsRound()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.011"/>
+  <testcase name="connectedNorth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.0"/>
+  <testcase name="connectedSouth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
+=======
+<testsuite name="nl.tudelft.jpacman.board.BoardFactoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:48" hostname="PUTER" time="0.872">
+>>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <properties/>
   <testcase name="connectedEast()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.947"/>
   <testcase name="connectedWest()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
   <testcase name="worldIsRound()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.017"/>
   <testcase name="connectedNorth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.001"/>
   <testcase name="connectedSouth()" classname="nl.tudelft.jpacman.board.BoardFactoryTest" time="0.002"/>
+>>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

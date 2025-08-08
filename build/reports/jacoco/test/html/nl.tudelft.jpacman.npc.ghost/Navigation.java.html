@@ -119,11 +119,11 @@ import nl.tudelft.jpacman.board.Unit;
      * @return the first unit found of type clazz, or null.
      */
     public static &lt;T extends Unit&gt; T findUnitInBoard(Class&lt;T&gt; clazz, Board board) {
-<span class="nc bnc" id="L122" title="All 2 branches missed.">        for (int y = 0; y &lt; board.getHeight(); y++) {</span>
-<span class="nc bnc" id="L123" title="All 2 branches missed.">            for (int x = 0; x &lt; board.getWidth(); x++) {</span>
-<span class="nc" id="L124">                final T ghost = Navigation.findUnit(clazz, board.squareAt(x, y));</span>
-<span class="nc bnc" id="L125" title="All 2 branches missed.">                if (ghost != null) {</span>
-<span class="nc" id="L126">                    return ghost;</span>
+<span class="pc bpc" id="L122" title="1 of 2 branches missed.">        for (int y = 0; y &lt; board.getHeight(); y++) {</span>
+<span class="fc bfc" id="L123" title="All 2 branches covered.">            for (int x = 0; x &lt; board.getWidth(); x++) {</span>
+<span class="fc" id="L124">                final T ghost = Navigation.findUnit(clazz, board.squareAt(x, y));</span>
+<span class="fc bfc" id="L125" title="All 2 branches covered.">                if (ghost != null) {</span>
+<span class="fc" id="L126">                    return ghost;</span>
                 }
             }
         }

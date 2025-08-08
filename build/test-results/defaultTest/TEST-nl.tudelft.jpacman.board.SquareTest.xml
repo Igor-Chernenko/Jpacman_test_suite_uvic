@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="nl.tudelft.jpacman.board.SquareTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:39" hostname="PUTER" time="0.043">
+=======
+<<<<<<< HEAD
+<testsuite name="nl.tudelft.jpacman.board.SquareTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:09" hostname="IGORS_PC" time="0.036">
+  <properties/>
+  <testcase name="testLeave()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.031"/>
+  <testcase name="testOrder()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.002"/>
+  <testcase name="testOccupy()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.001"/>
+=======
+<testsuite name="nl.tudelft.jpacman.board.SquareTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:49" hostname="PUTER" time="0.049">
+>>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <properties/>
   <testcase name="testLeave()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.037"/>
   <testcase name="testOrder()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.002"/>
   <testcase name="testOccupy()" classname="nl.tudelft.jpacman.board.SquareTest" time="0.002"/>
+>>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

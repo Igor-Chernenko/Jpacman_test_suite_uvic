@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:39" hostname="PUTER" time="0.104">
+=======
+<<<<<<< HEAD
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:09" hostname="IGORS_PC" time="0.072">
+=======
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:49" hostname="PUTER" time="0.116">
+>>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
+>>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <properties/>
-  <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.0"/>
   <testcase name="verifyHeight()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+<<<<<<< HEAD
   <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.025"/>
   <testcase name="[2] 1, 2" classname="nl.tudelft.jpacman.board.BoardTest" time="0.002"/>
+=======
+<<<<<<< HEAD
+  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.021"/>
+=======
+  <testcase name="[1] 0, 0" classname="nl.tudelft.jpacman.board.BoardTest" time="0.028"/>
+>>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
+  <testcase name="[2] 1, 2" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+>>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <testcase name="[3] 0, 1" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

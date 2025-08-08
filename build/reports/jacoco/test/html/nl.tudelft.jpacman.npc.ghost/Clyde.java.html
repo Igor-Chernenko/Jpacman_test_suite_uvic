@@ -95,8 +95,8 @@ public class Clyde extends Ghost {
 <span class="pc bpc" id="L95" title="1 of 2 branches missed.">        assert hasSquare();</span>
 
 <span class="fc" id="L97">        Unit nearest = Navigation.findNearest(Player.class, getSquare());</span>
-<span class="pc bpc" id="L98" title="1 of 2 branches missed.">        if (nearest == null) {</span>
-<span class="nc" id="L99">            return Optional.empty();</span>
+<span class="fc bfc" id="L98" title="All 2 branches covered.">        if (nearest == null) {</span>
+<span class="fc" id="L99">            return Optional.empty();</span>
         }
 <span class="pc bpc" id="L101" title="1 of 2 branches missed.">        assert nearest.hasSquare();</span>
 <span class="fc" id="L102">        Square target = nearest.getSquare();</span>

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:11:37" hostname="PUTER" time="1.714">
   <properties/>
   <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="1.714"/>
+=======
+<<<<<<< HEAD
+<testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:08:05" hostname="IGORS_PC" time="2.501">
+  <properties/>
+  <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="2.501"/>
+=======
+<testsuite name="nl.tudelft.jpacman.LauncherSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-08T05:06:47" hostname="PUTER" time="1.64">
+  <properties/>
+  <testcase name="smokeTest()" classname="nl.tudelft.jpacman.LauncherSmokeTest" time="1.64"/>
+>>>>>>> cde6c8345d47cbd2e61c001004e61d323ada9283
+>>>>>>> f1e01fd8d7a5b757d3850752f7077cfb94cfed7f
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
