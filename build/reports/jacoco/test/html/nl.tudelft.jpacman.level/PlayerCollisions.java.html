@@ -32,11 +32,11 @@ public class PlayerCollisions implements CollisionMap {
 
     @Override
     public void collide(Unit mover, Unit collidedOn) {
-<span class="fc bfc" id="L35" title="All 2 branches covered.">        if (mover instanceof Player) {</span>
+<span class="pc bpc" id="L35" title="1 of 2 branches missed.">        if (mover instanceof Player) {</span>
 <span class="fc" id="L36">            playerColliding((Player) mover, collidedOn);</span>
         }
-<span class="pc bpc" id="L38" title="1 of 2 branches missed.">        else if (mover instanceof Ghost) {</span>
-<span class="fc" id="L39">            ghostColliding((Ghost) mover, collidedOn);</span>
+<span class="nc bnc" id="L38" title="All 2 branches missed.">        else if (mover instanceof Ghost) {</span>
+<span class="nc" id="L39">            ghostColliding((Ghost) mover, collidedOn);</span>
         }
 <span class="nc bnc" id="L41" title="All 2 branches missed.">        else if (mover instanceof Pellet) {</span>
 <span class="nc" id="L42">            pelletColliding((Pellet) mover, collidedOn);</span>
@@ -53,10 +53,10 @@ public class PlayerCollisions implements CollisionMap {
 <span class="fc" id="L53">    }</span>
 
     private void ghostColliding(Ghost ghost, Unit collidedOn) {
-<span class="pc bpc" id="L56" title="1 of 2 branches missed.">        if (collidedOn instanceof Player) {</span>
+<span class="nc bnc" id="L56" title="All 2 branches missed.">        if (collidedOn instanceof Player) {</span>
 <span class="nc" id="L57">            playerVersusGhost((Player) collidedOn, ghost);</span>
         }
-<span class="fc" id="L59">    }</span>
+<span class="nc" id="L59">    }</span>
 
     private void pelletColliding(Pellet pellet, Unit collidedOn) {
 <span class="nc bnc" id="L62" title="All 2 branches missed.">        if (collidedOn instanceof Player) {</span>

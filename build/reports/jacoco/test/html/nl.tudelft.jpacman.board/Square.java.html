@@ -104,8 +104,8 @@ import nl.tudelft.jpacman.sprite.Sprite;
      */
     protected final boolean invariant(Square this) {
 <span class="fc bfc" id="L106" title="All 2 branches covered.">        for (Unit occupant : occupants) {</span>
-<span class="pc bpc" id="L107" title="2 of 4 branches missed.">            if (occupant.hasSquare() &amp;&amp; occupant.getSquare() != this) {</span>
-<span class="nc" id="L108">                return false;</span>
+<span class="pc bpc" id="L107" title="1 of 4 branches missed.">            if (occupant.hasSquare() &amp;&amp; occupant.getSquare() != this) {</span>
+<span class="fc" id="L108">                return false;</span>
             }
 <span class="fc" id="L110">        }</span>
 <span class="fc" id="L111">        return true;</span>

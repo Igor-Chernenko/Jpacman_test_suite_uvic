@@ -137,9 +137,9 @@ public class AnimatedSprite implements Sprite {
 <span class="fc bfc" id="L137" title="All 2 branches covered.">            while (lastUpdate &lt; now) {</span>
 <span class="fc" id="L138">                lastUpdate += animationDelay;</span>
 <span class="fc" id="L139">                current++;</span>
-<span class="pc bpc" id="L140" title="1 of 2 branches missed.">                if (looping) {</span>
+<span class="fc bfc" id="L140" title="All 2 branches covered.">                if (looping) {</span>
 <span class="fc" id="L141">                    current %= animationFrames.length;</span>
-<span class="nc bnc" id="L142" title="All 2 branches missed.">                } else if (current == animationFrames.length) {</span>
+<span class="pc bpc" id="L142" title="1 of 2 branches missed.">                } else if (current == animationFrames.length) {</span>
 <span class="nc" id="L143">                    animating = false;</span>
                 }
             }
