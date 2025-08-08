@@ -3,7 +3,7 @@ package nl.tudelft.jpacman.board;
 import nl.tudelft.jpacman.sprite.Sprite;
 
 /**
- * Basic implementation of square.
+ * Basic implementation of square...
  *
  * @author Jeroen Roosen 
  */
