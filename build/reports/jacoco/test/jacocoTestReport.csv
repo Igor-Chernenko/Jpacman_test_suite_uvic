@@ -21,7 +21,7 @@ jpacman,nl.tudelft.jpacman.points,DefaultPointCalculator,0,10,0,0,0,5,0,4,0,4
 jpacman,nl.tudelft.jpacman.points,PointCalculatorLoader,32,39,1,3,5,11,1,6,0,5
 jpacman,nl.tudelft.jpacman.board,Square,22,85,7,9,1,22,7,9,0,8
 jpacman,nl.tudelft.jpacman.board,Direction,0,52,0,0,0,11,0,4,0,4
-jpacman,nl.tudelft.jpacman.board,Board,21,94,9,13,1,17,9,9,0,7
+jpacman,nl.tudelft.jpacman.board,Board,20,95,5,17,1,17,5,13,0,7
 jpacman,nl.tudelft.jpacman.board,BoardFactory.Wall,0,11,0,0,0,5,0,3,0,3
 jpacman,nl.tudelft.jpacman.board,Unit,22,98,8,14,0,29,8,13,0,10
 jpacman,nl.tudelft.jpacman.board,BoardFactory.Ground,0,11,0,0,0,5,0,3,0,3
@@ -35,7 +35,7 @@ jpacman,nl.tudelft.jpacman.level,Level,57,377,13,45,6,99,14,30,1,14
 jpacman,nl.tudelft.jpacman.level,Pellet,0,15,0,0,0,6,0,3,0,3
 jpacman,nl.tudelft.jpacman.level,DefaultPlayerInteractionMap,54,0,0,0,17,0,5,0,5,0
 jpacman,nl.tudelft.jpacman.level,Level.NpcMoveTask,0,36,0,2,0,10,0,3,0,2
-jpacman,nl.tudelft.jpacman.level,PlayerCollisions,35,53,9,5,10,18,7,7,2,5
+jpacman,nl.tudelft.jpacman.level,PlayerCollisions,22,66,6,8,6,22,5,9,1,6
 jpacman,nl.tudelft.jpacman.level,Player,13,57,3,3,4,20,4,7,1,7
 jpacman,nl.tudelft.jpacman.level,LevelFactory.RandomGhost,8,0,0,0,3,0,2,0,2,0
 jpacman,nl.tudelft.jpacman.npc.ghost,Inky,10,86,3,13,1,22,3,9,0,4

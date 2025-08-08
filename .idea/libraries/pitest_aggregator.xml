@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="pitest.aggregator" type="repository">
+    <properties maven-id="org.pitest:pitest-aggregator:1.15.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pitest/pitest-aggregator/1.15.6/pitest-aggregator-1.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/pitest/pitest-entry/1.15.6/pitest-entry-1.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/pitest/pitest/1.15.6/pitest-1.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/pitest/pitest-html-report/1.15.6/pitest-html-report-1.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/6.2.7/woodstox-core-6.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
